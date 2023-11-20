@@ -22,3 +22,7 @@ cmake ..
 make
 ```
 After successful compilation, you will find a binary named `projectEchoWave_example` within the `build/example` directory.
+
+# Add your own mark
+
+If you get time feel free to infuse your creativity into this project. Elevate the challenge by incorporating encryption techniques, exploring alternative transport layers for seamless Inter-Process Communication (IPC), or even delve into hardware integration for communication across physical serial ports. However, maintain the project's comprehensiveness, ensuring we can replicate your work without hindrance, as we might not possess the exact development board you're using or can't find that niche library you introduced. Let your innovation shine while keeping the project accessible for widespread adoption.
