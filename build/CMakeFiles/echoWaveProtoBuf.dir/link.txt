@@ -1,0 +1,2 @@
+/usr/bin/ar qc libechoWaveProtoBuf.a  CMakeFiles/echoWaveProtoBuf.dir/echoWave.pb.cc.o
+/usr/bin/ranlib libechoWaveProtoBuf.a

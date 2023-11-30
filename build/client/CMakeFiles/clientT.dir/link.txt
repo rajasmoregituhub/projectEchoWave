@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/clientT.dir/client.cpp.o  -o clientT ../libechoWaveProtoBuf.a -lprotobuf -lpthread 

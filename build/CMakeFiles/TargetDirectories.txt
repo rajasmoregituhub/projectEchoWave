@@ -1,0 +1,9 @@
+/home/s131584/MyCode/build/CMakeFiles/rebuild_cache.dir
+/home/s131584/MyCode/build/CMakeFiles/echoWaveProtoBuf.dir
+/home/s131584/MyCode/build/CMakeFiles/edit_cache.dir
+/home/s131584/MyCode/build/server/CMakeFiles/rebuild_cache.dir
+/home/s131584/MyCode/build/server/CMakeFiles/server.dir
+/home/s131584/MyCode/build/server/CMakeFiles/edit_cache.dir
+/home/s131584/MyCode/build/client/CMakeFiles/rebuild_cache.dir
+/home/s131584/MyCode/build/client/CMakeFiles/client.dir
+/home/s131584/MyCode/build/client/CMakeFiles/edit_cache.dir

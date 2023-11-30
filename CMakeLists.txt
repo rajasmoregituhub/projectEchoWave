@@ -3,7 +3,10 @@ project("projectEchoWave")
 
 set(ECHO_WAVE_LIB "echoWaveProtoBuf")
 set(PROTOBUF_DIR "protobuf")
-set(EXAMPLE_DIR "example")
+#set(EXAMPLE_DIR "example")
+set(SERVER_DIR "server")
+set(CLIENT_DIR "client")
+
 
 # Create a Library for the echoWave.proto
 find_package(Protobuf REQUIRED) # The host machine should have google protobug lib and protoc installed
@@ -17,4 +20,6 @@ target_include_directories (${ECHO_WAVE_LIB} PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
 
 # Inclue the example dir so it gets built
-add_subdirectory("${EXAMPLE_DIR}")
+add_subdirectory("${SERVER_DIR}")
+add_subdirectory("${CLIENT_DIR}")
+
